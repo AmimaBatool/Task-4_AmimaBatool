@@ -48,7 +48,7 @@ How to Run:
 Sample Output:
  - https://github.com/AmimaBatool/Task-4_AmimaBatool/blob/main/SampleOutput_Quiz_part-1.png
  - https://github.com/AmimaBatool/Task-4_AmimaBatool/blob/main/SampleOutput_Quiz_part-2.png
- - 
+ - https://github.com/AmimaBatool/Task-4_AmimaBatool/blob/main/SampleOutput_Quiz_part-3.png
 
 What I Learned:
 - I learned how to create a simple command-line quiz game using Python.
