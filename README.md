@@ -47,6 +47,7 @@ How to Run:
 
 Sample Output:
  - https://github.com/AmimaBatool/Task-4_AmimaBatool/blob/main/SampleOutput_Quiz_part-1.png
+ - https://github.com/AmimaBatool/Task-4_AmimaBatool/blob/main/SampleOutput_Quiz_part-2.png
  - 
 
 What I Learned:
